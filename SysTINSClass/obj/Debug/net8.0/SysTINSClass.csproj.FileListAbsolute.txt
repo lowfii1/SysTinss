@@ -1,0 +1,13 @@
+C:\Users\soraia.ssouza2\source\repos\sss\SysTINSClass\bin\Debug\net8.0\SysTINSClass.deps.json
+C:\Users\soraia.ssouza2\source\repos\sss\SysTINSClass\bin\Debug\net8.0\SysTINSClass.dll
+C:\Users\soraia.ssouza2\source\repos\sss\SysTINSClass\bin\Debug\net8.0\SysTINSClass.pdb
+C:\Users\soraia.ssouza2\source\repos\sss\SysTINSClass\obj\Debug\net8.0\SysTINSClass.csproj.AssemblyReference.cache
+C:\Users\soraia.ssouza2\source\repos\sss\SysTINSClass\obj\Debug\net8.0\SysTINSClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soraia.ssouza2\source\repos\sss\SysTINSClass\obj\Debug\net8.0\SysTINSClass.AssemblyInfoInputs.cache
+C:\Users\soraia.ssouza2\source\repos\sss\SysTINSClass\obj\Debug\net8.0\SysTINSClass.AssemblyInfo.cs
+C:\Users\soraia.ssouza2\source\repos\sss\SysTINSClass\obj\Debug\net8.0\SysTINSClass.csproj.CoreCompileInputs.cache
+C:\Users\soraia.ssouza2\source\repos\sss\SysTINSClass\obj\Debug\net8.0\SysTINSClass.sourcelink.json
+C:\Users\soraia.ssouza2\source\repos\sss\SysTINSClass\obj\Debug\net8.0\SysTINSClass.dll
+C:\Users\soraia.ssouza2\source\repos\sss\SysTINSClass\obj\Debug\net8.0\refint\SysTINSClass.dll
+C:\Users\soraia.ssouza2\source\repos\sss\SysTINSClass\obj\Debug\net8.0\SysTINSClass.pdb
+C:\Users\soraia.ssouza2\source\repos\sss\SysTINSClass\obj\Debug\net8.0\ref\SysTINSClass.dll
